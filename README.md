@@ -42,5 +42,3 @@ Aspiring Data Scientist focused on building intelligent, data-driven solutions t
 ### 📫 Contact
 
 - Email: borraviveksri21@gmail.com  
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: YOUR_LINKEDIN_LINK
